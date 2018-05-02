@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="bubblesort:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/bubblesort_jar</output-path>
+    <root id="archive" name="bubblesort.jar">
+      <element id="module-output" name="bubblesort" />
+    </root>
+  </artifact>
+</component>
